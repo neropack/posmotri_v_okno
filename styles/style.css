@@ -207,3 +207,9 @@ ol {
     clip-path: inset(50%);
     white-space: nowrap;
   }
+
+  .search-form__label-text:hover, .button:hover, .content__video-card-description-container:hover {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-thickness: 1px;
+}
