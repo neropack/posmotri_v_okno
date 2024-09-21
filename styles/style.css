@@ -236,6 +236,7 @@ ol {
 .content__video-card-thumbnail {
     flex: 0 0 auto;
     width: 194px;
+    object-fit: cover;
     height: 103px;
     margin: 2px;
 }
